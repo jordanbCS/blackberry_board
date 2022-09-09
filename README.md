@@ -1,7 +1,5 @@
 # Blackberry board 
 
-Documentation, presentation: https://j2.braincoin.org/nextcloud/index.php/s/9adbcSW  
-Cloud space: https://j2.braincoin.org/nextcloud/index.php/s/bmcqYN  
 Git repo: https://github.com/jordanbCS/blackberry_board   
 Youtube url: https://www.youtube.com/playlist?list=PLh9Uewtj3bwnC3MREo84yl-sVvKvdIWmr 
 

@@ -5,12 +5,11 @@ Youtube url: https://www.youtube.com/playlist?list=PLh9Uewtj3bwnC3MREo84yl-sVvKv
 
 ## Designs  
 
-![image](https://smartamerican.com/blackberry_board/assets/Blackberry_board_draft.png)  
+![image](https://braincoin.org/blackberry_board/assets/Blackberry_board_draft.png)  
 
 ## Assets  
 
-![image](https://smartamerican.com/blackberry_board/assets/Board1.png)  
-
+![image](https://braincoin.org/blackberry_board/assets/Board1.png)  
 
 ## Related  
 
